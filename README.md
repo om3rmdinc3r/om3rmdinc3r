@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Dinçer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Java
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me : omermdincer@gmail.com / https://www.linkedin.com/in/omermdincer/
 
 <!---
